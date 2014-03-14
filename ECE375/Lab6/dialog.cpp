@@ -32,11 +32,6 @@
 int file;
 char filename[20];
 
-int data1[6];
-int z=0,c;
-float a=0,b=300,p=0,q=300;
-int k=1;
-
 //Initialize the starting point
 QPoint hold = QPoint(150, 150);
 
